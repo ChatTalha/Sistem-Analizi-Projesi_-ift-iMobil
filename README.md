@@ -6,13 +6,9 @@ This project was documented for the **YBS201 System Analysis and Design** course
 
 ---
 
-## 👥 Project Team (Group 13)
+## 👥 Project Team 
 
-* **Talha İşliyen** - *Student No: 10064201688*
-* **Erdem Sayın**
-* **İmane Ben Halima**
-* **Dhia Gassoumi**
-* **Yusuf Öztürk**
+* **Talha İşliyen**
 
 ---
 
